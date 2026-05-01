@@ -111,7 +111,13 @@ app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],   # Tighten in production
+    allow_origins=[
+        "http://localhost:3000",                                                          # local dev
+        "https://election-process-educator.onrender.com",                                # Render backend
+        "https://election-frontend-eight.vercel.app",                                    # Vercel production alias
+        "https://election-frontend-dr4prhha8-jaya-surya-hubs-projects.vercel.app",      # Vercel deployment URL
+    ],
+    allow_origin_regex=r"https://.*\.vercel\.app",        # allow all vercel preview URLs via regex
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
