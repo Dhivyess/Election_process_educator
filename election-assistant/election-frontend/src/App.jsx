@@ -4,6 +4,9 @@ import Sidebar, { HamburgerBtn } from './components/Sidebar'
 import { MessageBubble, TypingIndicator } from './components/MessageBubble'
 import { streamQuestion, checkHealth, clearSession } from './utils/Api'
 import { STRINGS } from './utils/i18n'
+import ConstituencyExplorer from './components/ConstituencyExplorer'
+import VoterChecklist from './components/VoterChecklist'
+import EVMDemo from './components/EVMDemo'
 
 const STORAGE_KEY = 'ea_messages'
 const SESSION_KEY = 'ea_session_id'
@@ -25,6 +28,7 @@ export default function App() {
   const [sessionId, setSessionId] = useState(() => localStorage.getItem(SESSION_KEY) || null)
   const [isOnline, setIsOnline]   = useState(null)
   const [sidebarOpen, setSidebarOpen] = useState(false)
+  const [activeTab, setActiveTab] = useState('chat')
 
   const messagesEndRef = useRef(null)
   const textareaRef    = useRef(null)
@@ -164,18 +168,41 @@ export default function App() {
         <header className="chat-header">
           <div className="chat-header-left">
             <HamburgerBtn onClick={() => setSidebarOpen(o => !o)} />
-            <div>
-              <div className="chat-header-title" style={{ fontFamily: 'var(--font-display)' }}>
+            <div className="app-tabs">
+              <button 
+                className={`app-tab-btn ${activeTab === 'chat' ? 'active' : ''}`}
+                onClick={() => setActiveTab('chat')}
+              >
                 {t.chatTitle}
-              </div>
-              <div className="chat-header-sub">{t.chatSub}</div>
+              </button>
+              <button 
+                className={`app-tab-btn ${activeTab === 'explorer' ? 'active' : ''}`}
+                onClick={() => setActiveTab('explorer')}
+              >
+                Constituency Explorer
+              </button>
+              <button 
+                className={`app-tab-btn ${activeTab === 'checklist' ? 'active' : ''}`}
+                onClick={() => setActiveTab('checklist')}
+              >
+                Checklist / சரிபார்ப்பு
+              </button>
+              <button 
+                className={`app-tab-btn ${activeTab === 'evm' ? 'active' : ''}`}
+                onClick={() => setActiveTab('evm')}
+              >
+                EVM Demo
+              </button>
             </div>
           </div>
           <StatusPill />
         </header>
 
-        {/* Messages */}
-        <div className="messages-container">
+        {/* Main Content Area */}
+        {activeTab === 'chat' ? (
+          <>
+            {/* Messages */}
+            <div className="messages-container">
           {messages.length === 0 ? (
             /* Welcome Screen */
             <div className="welcome-screen">
@@ -245,6 +272,23 @@ export default function App() {
           </div>
           <div className="input-hint">{t.hint}</div>
         </div>
+        </>
+        ) : activeTab === 'explorer' ? (
+          <div className="explorer-wrapper">
+            <ConstituencyExplorer onAsk={(q) => {
+              setActiveTab('chat')
+              sendMessage(q)
+            }} />
+          </div>
+        ) : activeTab === 'checklist' ? (
+          <div className="checklist-wrapper">
+            <VoterChecklist lang={lang} />
+          </div>
+        ) : (
+          <div className="evm-wrapper-container">
+            <EVMDemo lang={lang} />
+          </div>
+        )}
 
         {/* Disclaimer */}
         <div
