@@ -1,131 +1,694 @@
-TAMIL NADU ASSEMBLY ELECTIONS 2026 — OFFICIAL INFORMATION
+TAMIL NADU ASSEMBLY ELECTIONS 2026 — COMPREHENSIVE OFFICIAL KNOWLEDGE BASE
+Source: Election Commission of India | Chief Electoral Officer, Tamil Nadu | Wikipedia
+Last Updated: May 2026
 
-=== ELECTION SCHEDULE ===
-- Gazette Notification: March 30, 2026
-- Last Date for Filing Nominations: April 6, 2026
-- Scrutiny of Nominations: April 7, 2026
-- Last Date for Withdrawal of Candidatures: April 9, 2026
-- Polling Date: April 23, 2026 (Single Phase)
-- Counting of Votes: May 2, 2026
-- Total Constituencies: 234 Assembly Constituencies
+================================================================================
+SECTION 1: ELECTION AT A GLANCE
+================================================================================
 
-=== VOTING DETAILS ===
-- Polling Hours: 7:00 AM to 6:00 PM (IST)
-- Total Registered Voters: Approximately 5.67 crore (56.7 million)
-- Total Polling Booths: Over 75,000 across Tamil Nadu
+Election Name       : Tamil Nadu Legislative Assembly Elections 2026
+Type                : State Assembly Election (Vidhan Sabha)
+Total Constituencies: 234
+Seats for Majority  : 118 seats needed to form government
+Total Registered Voters: 5,67,07,380 (5.67 crore / ~56.7 million)
+  - Male Voters     : 2,77,38,925
+  - Female Voters   : 2,89,60,838
+  - Third Gender    : 7,617
+Total Candidates    : 4,023 across all constituencies
+Total Polling Booths: Over 75,000
+Voter Turnout (2026): 85.15% — highest ever for a TN assembly election
+Previous Turnout (2021): 72.7%
 
-=== HOW TO CHECK YOUR VOTER ID STATUS ===
-1. Visit the official ECI website: voterportal.eci.gov.in
-2. You can also call the Voter Helpline: 1950 (toll-free)
-3. Use the Voter Helpline App on Android or iOS
-4. Visit your nearest Electoral Registration Officer (ERO) office
+================================================================================
+SECTION 2: ELECTION SCHEDULE
+================================================================================
 
-=== HOW TO REGISTER AS A NEW VOTER (FORM 6) ===
-- Eligibility: Indian citizen, 18 years or above, resident of the constituency
-- Documents needed: Age proof (birth certificate, 10th marksheet, or passport), address proof (Aadhaar, utility bill, or bank passbook), recent passport-size photograph
-- Apply online at: voters.eci.gov.in or submit Form 6 to your Booth Level Officer (BLO)
-- Deadline for registration before TN 2026 elections has already passed; registration remains open for future elections
+Event                              | Date
+-----------------------------------|---------------------------
+Gazette Notification               | March 30, 2026
+Last Date for Filing Nominations   | April 6, 2026
+Scrutiny of Nominations            | April 7, 2026
+Last Date for Withdrawal           | April 9, 2026
+Polling Date                       | April 23, 2026 (Wednesday)
+Polling Hours                      | 7:00 AM to 6:00 PM (IST)
+Counting of Votes                  | May 4, 2026 (Sunday)
+Results Declaration                | May 4, 2026
 
-=== HOW TO CHANGE YOUR ADDRESS (FORM 8) ===
-- If you moved within the same constituency: Submit Form 8A
-- If you moved to a different constituency: Submit Form 8 to delete from old roll, and Form 6 to register at new address
-- Documents: New address proof + existing Voter ID or EPIC number
-- Apply at: voters.eci.gov.in
+NOTE: Results were originally expected May 2, 2026 but the official
+counting date was confirmed as May 4, 2026.
 
-=== WHAT IS AN EPIC CARD? ===
-EPIC stands for Elector's Photo Identity Card. It is your Voter ID card issued by the Election Commission of India. It contains your name, photo, address, and a unique EPIC number. It serves as a valid photo identity proof for voting.
+================================================================================
+SECTION 3: VOTING PROCESS
+================================================================================
 
-=== WHAT IS A BLO? ===
-A Booth Level Officer (BLO) is a government official appointed by the Election Commission to manage voter rolls at the polling booth level. They help with: adding new voters, correcting details, removing deceased voters, and verifying residence. You can find your BLO through the 1950 helpline or the ECI portal.
+=== HOW TO VOTE ON POLLING DAY ===
+1. Locate your polling booth — use electoralsearch.in, the Voter Helpline App, 
+   or SMS "EPIC <your EPIC number>" to 1950
+2. Carry at least ONE valid photo ID from the list below
+3. Collect a voter slip from the Polling Officer at the booth
+4. Enter the voting compartment (one voter at a time, in private)
+5. Press the blue button next to your chosen candidate's name and symbol on the EVM
+6. A green light + beep sound confirms your vote is recorded
+7. The VVPAT (Voter Verified Paper Audit Trail) machine displays a printed slip 
+   with your chosen candidate's name and symbol for EXACTLY 7 seconds — this 
+   visually confirms your vote before it is automatically stored
 
-=== WHAT IS SIR (SYSTEMATIC INTENSIVE REVISION)? ===
-SIR is a process by which the Election Commission periodically revises and updates the electoral rolls. It involves door-to-door verification by BLOs, addition of newly eligible voters, and removal of duplicate or deceased entries. The Special Summary Revision (SSR) is conducted annually, typically between October and January.
-
-=== WHAT TO BRING ON POLLING DAY ===
-You must carry at least one of these valid photo ID documents:
-1. EPIC (Voter ID Card) — preferred
+=== VALID PHOTO ID DOCUMENTS (Any ONE of these 12) ===
+1. EPIC (Voter ID Card) — most preferred
 2. Aadhaar Card
 3. Passport
 4. Driving Licence
 5. PAN Card
 6. MNREGA Job Card
-7. Bank/Post Office Passbook with photo
+7. Bank or Post Office Passbook with photograph
 8. Smart Card issued by RGI under NPR
-9. Service Identity Cards (government employees)
-10. Health Insurance Smart Card (RSBY)
+9. Service Identity Cards issued to employees by Central/State Govt/PSUs
+10. Health Insurance Smart Card issued under RSBY scheme
+11. Pension document with photo
+12. Official identity cards issued by MPs/MLAs/MLCs
 
-=== ELECTRONIC VOTING MACHINES (EVMs) ===
-EVMs are used in all Indian elections. How to vote:
-1. Verify your name in the electoral roll at the polling booth
-2. Collect a voter slip from the Polling Officer
-3. Enter the voting compartment
-4. Press the blue button next to your chosen candidate's name and symbol
-5. A green light and beep confirms your vote
-6. VVPAT (Voter Verified Paper Audit Trail) will show a paper slip with the candidate name and symbol for 7 seconds — this confirms your vote
+=== WHAT IS AN EVM? ===
+EVM stands for Electronic Voting Machine. It consists of:
+- Ballot Unit: The machine where you press the button to vote
+- Control Unit: Operated by the Polling Officer — activates the ballot unit
+- VVPAT: Voter Verified Paper Audit Trail — shows printed slip for 7 seconds 
+  confirming your choice
 
-=== VOTER GRIEVANCES ===
-- National Voter Helpline: 1950 (toll-free, available in regional languages)
-- cVIGIL App: To report Model Code of Conduct violations with photo/video evidence
-- National Grievance Service Portal: electoralsearch.in
-- You can also contact the Chief Electoral Officer of Tamil Nadu: www.elections.tn.gov.in
+EVMs are standalone machines with no internet/WiFi connectivity, making 
+them tamper-proof against remote hacking. Each EVM is assigned to a specific 
+constituency and cannot be reprogrammed on-site.
 
-=== FORM TYPES EXPLAINED ===
-- Form 6: New voter registration
-- Form 6A: Registration for overseas voters (NRIs)
-- Form 6B: Registration for Aadhaar linkage
-- Form 7: Objection to inclusion / Application for deletion (e.g., deceased voter)
-- Form 8: Correction of entries in electoral roll (name, address, photo, age)
-- Form 8A: Transposition within constituency (same area address change)
+=== VOTER HELPLINE ===
+National Voter Helpline: 1950 (toll-free, available in Tamil and other languages)
+Tamil Nadu CEO Website: www.elections.tn.gov.in
+ECI Portal: voterportal.eci.gov.in
+Electoral Search: electoralsearch.in
 
-=== WHO CANNOT VOTE? ===
-- Non-citizens of India
-- Persons below 18 years of age on the qualifying date (January 1 of the registration year)
-- Persons of unsound mind as declared by a competent court
-- Persons disqualified under any law relating to corrupt practices or offences
+================================================================================
+SECTION 4: VOTER REGISTRATION
+================================================================================
 
-=== CANDIDATE INFORMATION ===
-To check a candidate's criminal background, assets, and liabilities:
-- Visit MyNeta: myneta.info
-- Visit ADR (Association for Democratic Reforms): adrindia.org
-- Candidate affidavits are publicly available on the ECI website
+=== ELIGIBILITY TO VOTE ===
+You can vote if:
+- You are a citizen of India
+- You are 18 years or older on January 1 of the qualifying year
+- Your name is on the Electoral Roll of the constituency
+- You are not disqualified under any law
+
+You CANNOT vote if:
+- You are a non-citizen of India
+- You are below 18 years of age on the qualifying date
+- You have been declared of unsound mind by a competent court
+- You are disqualified under laws relating to corrupt practices
+
+=== FORM 6 — NEW VOTER REGISTRATION ===
+Use this form if you are eligible but not yet registered as a voter.
+
+Eligibility:
+- Indian citizen
+- 18 years or older on January 1 of the registration year
+- Ordinary resident of the constituency
+
+Documents required:
+- Age proof: Birth certificate, 10th marksheet, passport, or driving licence
+- Address proof: Aadhaar card, utility bill, rental agreement, bank passbook
+- Recent passport-size photograph (35mm × 45mm)
+
+Apply at: voters.eci.gov.in (online) or submit to your Booth Level Officer (BLO)
+
+=== FORM 7 — OBJECTION / DELETION ===
+Use this form to:
+- Object to inclusion of a name in the electoral roll
+- Apply for deletion of a name (e.g., deceased voter, person moved away)
+- Any eligible elector can file a Form 7 objection against another entry
+
+=== FORM 8 — CORRECTION OF ENTRIES ===
+Use this form to correct:
+- Name (spelling error, changed name after marriage)
+- Address (moved within same constituency)
+- Photo (old or unclear photo)
+- Age/Date of Birth correction
+- Transposition from one part to another within same constituency
+
+=== FORM 8A — TRANSPOSITION ===
+Use this form if you have moved to a different address within the SAME constituency.
+Your entry is shifted to the correct section of the electoral roll.
+
+=== FORM 12D — POSTAL BALLOT APPLICATION ===
+Eligible voters who can apply for postal ballot:
+- Armed Forces personnel and their spouses
+- Persons with Disabilities (PwD) with 40% or more disability
+- Essential services voters on polling duty
+- Senior citizens aged 85 years or above
+- COVID-19 patients or quarantined persons
+
+Apply at least 5 days before polling day.
+
+=== WHAT IS AN EPIC CARD? ===
+EPIC = Elector's Photo Identity Card (commonly called "Voter ID card")
+Issued by the Election Commission of India.
+Contains: Your name, photo, address, date of birth, and unique EPIC number.
+Even if you lose your physical EPIC, you can download an e-EPIC (digital 
+voter ID) from the ECI portal: voters.eci.gov.in
+
+=== WHAT IS A BLO? ===
+BLO = Booth Level Officer
+A government official assigned to manage voter rolls at the polling booth level.
+Responsibilities: Adding new voters, correcting details, door-to-door verification.
+Find your BLO: Call 1950 or visit voterportal.eci.gov.in
+
+=== WHAT IS SIR / SSR? ===
+SIR = Systematic Intensive Revision
+SSR = Special Summary Revision
+Annual process where the Election Commission updates electoral rolls through 
+door-to-door verification by BLOs. Usually conducted October–January each year.
+
+================================================================================
+SECTION 5: ACCESSIBILITY & SPECIAL PROVISIONS
+================================================================================
+
+=== PROVISIONS FOR DIFFERENTLY-ABLED (PwD) VOTERS ===
+- Right to be accompanied by a companion of your choice inside the voting booth
+- Accessible ramps and facilities at all polling booths
+- Priority queuing for PwD voters
+- Braille-enabled EPIC cards available on request
+- PwD voters with 40%+ disability are eligible for postal ballots
+- Wheelchair assistance available at booths
+
+=== PROVISIONS FOR SENIOR CITIZENS (85+ years) ===
+- Eligible for postal ballot (apply via Form 12D)
+- Priority entry at polling booths
+- Dedicated volunteers to assist at booths
+
+=== PROVISIONS FOR WOMEN VOTERS ===
+- Dedicated women-only queues at many polling stations
+- Female Polling Officers present at sensitive booths
+- Childcare assistance available at select booths
+
+=== LANGUAGE SUPPORT ===
+- All EVM ballot papers and official materials are bilingual (Tamil + English)
+- The 1950 helpline provides support in Tamil
+- All official election communications are available in Tamil
+
+================================================================================
+SECTION 6: VOTER RIGHTS AND MODEL CODE OF CONDUCT
+================================================================================
+
+=== YOUR FUNDAMENTAL RIGHTS AS A VOTER ===
+1. Right to vote freely and in secret — no one can see your vote
+2. Right to be treated with dignity at the polling booth
+3. Right to accessible facilities (ramps, assistance for PwD)
+4. Right to NOT vote for anyone — a voter can press NOTA (None of the Above)
+5. Right to check your name on the electoral roll
+6. Right to challenge incorrect voter list entries (via Form 7)
+7. Right to vote using alternate ID if EPIC is lost
+
+=== WHAT IS NOTA? ===
+NOTA = None of the Above
+If you do not wish to vote for any candidate, you can press the NOTA button 
+on the EVM (last option on the ballot). Your vote is counted but does not 
+benefit any candidate. NOTA was introduced by the Supreme Court of India in 2013.
 
 === MODEL CODE OF CONDUCT (MCC) ===
-The Model Code of Conduct comes into effect from the date of announcement of elections. It governs:
-- Political parties and candidates' conduct
-- Government machinery — no announcement of new schemes or freebies after MCC is in effect
-- Media conduct
-- Use of government resources for campaigning (prohibited)
-Report MCC violations via the cVIGIL app or call 1950.
+The MCC comes into effect from the date of election announcement (March 30, 2026).
+What it prohibits:
+- Announcement of new government schemes or freebies after MCC is in effect
+- Use of government resources (vehicles, buildings) for campaigning
+- Display of election material within 200 meters of a polling booth
+- Campaigning 48 hours before polling day (campaign silence period)
+- Distribution of money, gifts, or alcohol to influence voters
 
-=== ABSENTEE VOTERS / POSTAL BALLOTS ===
-The following categories can vote via postal ballot:
-- Service voters (armed forces, police on election duty)
-- Persons with disabilities (PwD) — 40% or more disability
-- Essential services voters
-- Senior citizens above 85 years
-- COVID-19 patients/quarantined persons
-Apply with Form 12D at least 5 days before polling.
+Report MCC violations:
+- cVIGIL App: Upload photo/video evidence of MCC violations with GPS location
+- The complaint reaches the Flying Squad within 100 minutes
+- Call 1950
 
-=== POLLING BOOTH LOCATOR ===
-Find your polling booth via:
-1. electoralsearch.in
-2. Voter Helpline App
-3. SMS: Send EPIC <your EPIC number> to 1950
-4. Call 1950
+=== CAMPAIGN SILENCE PERIOD ===
+No political campaigning is allowed from 48 hours before polling.
+That means: No rallies, no speeches, no distribution of material from 
+April 21, 2026 (6:00 PM) until polling ends on April 23, 2026 (6:00 PM).
 
-=== COMMON QUESTIONS ===
+=== VOTER GRIEVANCES ===
+- National Voter Helpline: 1950 (toll-free)
+- cVIGIL App: For reporting election violations
+- National Grievance Portal: electoralsearch.in
+- TN CEO Office: www.elections.tn.gov.in
+- Grievances can also be filed at the District Election Officer's office
+
+=== CHECKING CANDIDATE BACKGROUND ===
+To check a candidate's criminal background, assets, and liabilities:
+- MyNeta: myneta.info
+- ADR (Association for Democratic Reforms): adrindia.org
+- All candidate affidavits are public and available on the ECI website
+- Candidates must disclose criminal cases, income, assets, education in their affidavit
+
+================================================================================
+SECTION 7: POLITICAL PARTIES AND ALLIANCES (2026)
+================================================================================
+
+=== SECULAR PROGRESSIVE ALLIANCE (SPA) — DMK-LED ===
+Key parties: DMK (M.K. Stalin), Indian National Congress, CPI(M), CPI, VCK, 
+MDMK (Vaiko), MNM (Kamal Haasan), DMDK, IUML, and others
+
+=== AIADMK-LED ALLIANCE (NDA ALIGNED) ===
+Key parties: AIADMK (Edappadi K. Palaniswami), BJP (Nainar Nagenthran), 
+PMK (Anbumani Ramadoss), AMMK (T.T.V. Dhinakaran), and others
+Chief Ministerial Candidate: Edappadi K. Palaniswami
+
+=== CONTESTING INDEPENDENTLY ===
+- Tamilaga Vettri Kazhagam (TVK) — led by actor Vijay — contesting all 234 seats
+- Naam Tamilar Katchi (NTK) — led by Seeman — contesting all 234 seats
+- Puthiya Tamilagam — led by Dr. K. Krishnasamy
+
+NOTE: This assistant does not endorse or recommend any party or candidate.
+The above is factual information only.
+
+================================================================================
+SECTION 8: ALL 234 CONSTITUENCIES — DISTRICT-WISE
+================================================================================
+
+Tamil Nadu has 234 Assembly Constituencies across 38 districts.
+Categories: (SC) = Scheduled Caste reserved, (ST) = Scheduled Tribe reserved
+General = Open constituency
+
+--- TIRUVALLUR DISTRICT (Constituencies 1–6) ---
+1.  Gummidipoondi         | General
+2.  Ponneri               | SC
+3.  Tiruttani             | General
+4.  Thiruvallur           | General
+5.  Poonamallee           | SC
+6.  Avadi                 | General
+
+--- CHENNAI DISTRICT (Constituencies 7–28) ---
+7.  Maduravoyal           | General
+8.  Ambattur              | General
+9.  Madavaram             | General
+10. Thiruvottiyur         | General
+11. Dr. Radhakrishnan Nagar | General
+12. Perambur              | General
+13. Kolathur              | General
+14. Villivakkam           | General
+15. Thiru-Vi-Ka-Nagar     | SC
+16. Egmore                | SC
+17. Royapuram             | General
+18. Harbour               | General
+19. Chepauk-Thiruvallikeni | General
+20. Thousand Lights       | General
+21. Anna Nagar            | General
+22. Virugambakkam         | General
+23. Saidapet              | General
+24. Thiyagarayanagar      | General
+25. Mylapore              | General
+26. Velachery             | General
+27. Shozhinganallur       | General
+28. Alandur               | General
+
+--- KANCHIPURAM DISTRICT (Constituencies 29, 36–37) ---
+29. Sriperumbudur         | SC
+36. Uthiramerur           | General
+37. Kancheepuram          | General
+
+--- CHENGALPATTU DISTRICT (Constituencies 30–35) ---
+30. Pallavaram            | General
+31. Tambaram              | General
+32. Chengalpattu          | General
+33. Thiruporur            | General
+34. Cheyyur               | SC
+35. Madurantakam          | SC
+
+--- RANIPET DISTRICT (Constituencies 38–39, 41–42) ---
+38. Arakkonam             | SC
+39. Sholinghur            | General
+41. Ranipet               | General
+42. Arcot                 | General
+
+--- VELLORE DISTRICT (Constituencies 40, 43–46) ---
+40. Katpadi               | General
+43. Vellore               | General
+44. Anaikattu             | General
+45. Kilvaithinankuppam    | SC
+46. Gudiyattam            | SC
+
+--- TIRUPATTUR DISTRICT (Constituencies 47–50) ---
+47. Vaniyambadi           | General
+48. Ambur                 | General
+49. Jolarpet              | General
+50. Tirupattur            | General
+
+--- KRISHNAGIRI DISTRICT (Constituencies 51–56) ---
+51. Uthangarai            | SC
+52. Bargur                | General
+53. Krishnagiri           | General
+54. Veppanahalli          | General
+55. Hosur                 | General
+56. Thalli                | General
+
+--- DHARMAPURI DISTRICT (Constituencies 57–61) ---
+57. Palacode              | General
+58. Pennagaram            | General
+59. Dharmapuri            | General
+60. Pappireddippatti      | General
+61. Harur                 | SC
+
+--- TIRUVANNAMALAI DISTRICT (Constituencies 62–69) ---
+62. Chengam               | SC
+63. Tiruvannamalai        | General
+64. Kilpennathur          | General
+65. Kalasapakkam          | General
+66. Polur                 | General
+67. Arani                 | General
+68. Cheyyar               | General
+69. Vandavasi             | SC
+
+--- VILUPPURAM DISTRICT (Constituencies 70–76) ---
+70. Gingee                | General
+71. Mailam                | General
+72. Tindivanam            | General
+73. Vanur                 | SC
+74. Villupuram            | General
+75. Vikravandi            | General
+76. Tirukkoyilur          | General
+
+--- KALLAKURICHI DISTRICT (Constituencies 77–80) ---
+77. Ulundurpettai         | General
+78. Rishivandiyam         | General
+79. Sankarapuram          | General
+80. Kallakurichi          | SC
+
+--- SALEM DISTRICT (Constituencies 81–91) ---
+81. Gangavalli            | SC
+82. Attur                 | SC
+83. Yercaud               | ST
+84. Omalur                | General
+85. Mettur                | General
+86. Edappadi              | General
+87. Sankari               | General
+88. Salem (West)          | General
+89. Salem (North)         | General
+90. Salem (South)         | General
+91. Veerapandi            | General
+
+--- NAMAKKAL DISTRICT (Constituencies 92–97) ---
+92. Rasipuram             | SC
+93. Senthamangalam        | ST
+94. Namakkal              | General
+95. Paramathi Velur       | General
+96. Tiruchengodu          | General
+97. Kumarapalayam         | General
+
+--- ERODE DISTRICT (Constituencies 98–107, except 101–102, 112) ---
+98.  Erode (East)         | General
+99.  Erode (West)         | General
+100. Modakkurichi         | General
+103. Perundurai           | General
+104. Bhavani              | General
+105. Anthiyur             | General
+106. Gobichettipalayam    | General
+107. Bhavanisagar         | SC
+
+--- TIRUPPUR DISTRICT (Constituencies 101–102, 112–115, 125–126) ---
+101. Dharapuram           | SC
+102. Kangayam             | General
+112. Avanashi             | SC
+113. Tiruppur (North)     | General
+114. Tiruppur (South)     | General
+115. Palladam             | General
+125. Udumalaipettai       | General
+126. Madathukulam         | General
+
+--- NILGIRIS DISTRICT (Constituencies 108–110) ---
+108. Udhagamandalam       | General
+109. Gudalur              | SC
+110. Coonoor              | General
+
+--- COIMBATORE DISTRICT (Constituencies 111, 116–124) ---
+111. Mettupalayam         | General
+116. Sulur                | General
+117. Kavundampalayam      | General
+118. Coimbatore (North)   | General
+119. Thondamuthur         | General
+120. Coimbatore (South)   | General
+121. Singanallur          | General
+122. Kinathukadavu        | General
+123. Pollachi             | General
+124. Valparai             | SC
+
+--- DINDIGUL DISTRICT (Constituencies 127–133) ---
+127. Palani               | General
+128. Oddanchatram         | General
+129. Athoor               | General
+130. Nilakottai           | SC
+131. Natham               | General
+132. Dindigul             | General
+133. Vedasandur           | General
+
+--- KARUR DISTRICT (Constituencies 134–137) ---
+134. Aravakurichi         | General
+135. Karur                | General
+136. Krishnarayapuram     | SC
+137. Kulithalai           | General
+
+--- TIRUCHIRAPPALLI DISTRICT (Constituencies 138–146) ---
+138. Manapaarai           | General
+139. Srirangam            | General
+140. Tiruchirappalli (West) | General
+141. Tiruchirappalli (East) | General
+142. Thiruverumbur        | General
+143. Lalgudi              | General
+144. Manachanallur        | General
+145. Musiri               | General
+146. Thuraiyur            | SC
+
+--- PERAMBALUR DISTRICT (Constituencies 147–148) ---
+147. Perambalur           | SC
+148. Kunnam               | General
+
+--- ARIYALUR DISTRICT (Constituencies 149–150) ---
+149. Ariyalur             | General
+150. Jayankondam          | General
+
+--- CUDDALORE DISTRICT (Constituencies 151–159) ---
+151. Tittakudi            | SC
+152. Virudhachalam        | General
+153. Neyveli              | General
+154. Panruti              | General
+155. Cuddalore            | General
+156. Kurinjipadi          | General
+157. Bhuvanagiri          | General
+158. Chidambaram          | General
+159. Kattumannarkoil      | SC
+
+--- MAYILADUTHURAI DISTRICT (Constituencies 160–162) ---
+160. Sirkazhi             | SC
+161. Mayiladuturai        | General
+162. Poompuhar            | General
+
+--- NAGAPATTINAM DISTRICT (Constituencies 163–165) ---
+163. Nagapattinam         | General
+164. Kilvelur             | SC
+165. Vedaranyam           | General
+
+--- TIRUVARUR DISTRICT (Constituencies 166–169) ---
+166. Thiruthuraipoondi    | SC
+167. Mannargudi           | General
+168. Thiruvarur           | General
+169. Nannilam             | General
+
+--- THANJAVUR DISTRICT (Constituencies 170–177) ---
+170. Thiruvidaimarudur    | SC
+171. Kumbakonam           | General
+172. Papanasam            | General
+173. Thiruvaiyaru         | General
+174. Thanjavur            | General
+175. Orathanadu           | General
+176. Pattukkottai         | General
+177. Peravurani           | General
+
+--- PUDUKKOTTAI DISTRICT (Constituencies 178–183) ---
+178. Gandarvakottai       | SC
+179. Viralimalai          | General
+180. Pudukkottai          | General
+181. Thirumayam           | General
+182. Alangudi             | General
+183. Aranthangi           | General
+
+--- SIVAGANGA DISTRICT (Constituencies 184–187) ---
+184. Karaikudi            | General
+185. Tiruppattur          | General
+186. Sivaganga            | General
+187. Manamadurai          | SC
+
+--- MADURAI DISTRICT (Constituencies 188–197) ---
+188. Melur                | General
+189. Madurai East         | General
+190. Sholavandan          | SC
+191. Madurai North        | General
+192. Madurai South        | General
+193. Madurai Central      | General
+194. Madurai West         | General
+195. Thiruparankundram    | General
+196. Thirumangalam        | General
+197. Usilampatti          | General
+
+--- THENI DISTRICT (Constituencies 198–201) ---
+198. Andipatti            | General
+199. Periyakulam          | SC
+200. Bodinayakanur        | General
+201. Cumbum               | General
+
+--- VIRUDHUNAGAR DISTRICT (Constituencies 202–208) ---
+202. Rajapalayam          | General
+203. Srivilliputhur       | SC
+204. Sattur               | General
+205. Sivakasi             | General
+206. Virudhunagar         | General
+207. Aruppukkottai        | General
+208. Tiruchuli            | General
+
+--- RAMANATHAPURAM DISTRICT (Constituencies 209–212) ---
+209. Paramakudi           | SC
+210. Tiruvadanai          | General
+211. Ramanathapuram       | General
+212. Mudhukulathur        | General
+
+--- THOOTHUKUDI DISTRICT (Constituencies 213–218) ---
+213. Vilathikulam         | General
+214. Thoothukkudi         | General
+215. Tiruchendur          | General
+216. Srivaikuntam         | General
+217. Ottapidaram          | SC
+218. Kovilpatti           | General
+
+--- TENKASI DISTRICT (Constituencies 219–223) ---
+219. Sankarankovil        | SC
+220. Vasudevanallur       | SC
+221. Kadayanallur         | General
+222. Tenkasi              | General
+223. Alangulam            | General
+
+--- TIRUNELVELI DISTRICT (Constituencies 224–228) ---
+224. Tirunelveli          | General
+225. Ambasamudram         | General
+226. Palayamkottai        | General
+227. Nanguneri            | General
+228. Radhapuram           | General
+
+--- KANYAKUMARI DISTRICT (Constituencies 229–234) ---
+229. Kanniyakumari        | General
+230. Nagercoil            | General
+231. Colachal             | General
+232. Padmanabhapuram      | General
+233. Vilavancode          | General
+234. Killiyoor            | General
+
+================================================================================
+SECTION 9: CONSTITUENCY STATISTICS SUMMARY
+================================================================================
+
+Total Constituencies    : 234
+General Constituencies  : 188
+SC Reserved             : 44
+ST Reserved             : 2
+
+Districts with most constituencies:
+- Chennai         : 22 constituencies (7–28)
+- Salem           : 11 constituencies (81–91)
+- Coimbatore      : 9 constituencies (111, 116–124)
+- Cuddalore       : 9 constituencies (151–159)
+- Madurai         : 10 constituencies (188–197)
+
+Districts with fewest constituencies:
+- Perambalur      : 2 constituencies
+- Ariyalur        : 2 constituencies
+- Nagapattinam    : 3 constituencies
+- Mayiladuthurai  : 3 constituencies
+
+Notable constituencies:
+- Edappadi (86)   : Constituency of AIADMK leader Edappadi K. Palaniswami
+- Kolathur (13)   : Constituency of CM M.K. Stalin (DMK)
+- Vikravandi (75) : Bypoll was held here in 2024
+
+================================================================================
+SECTION 10: FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+Q: When is the polling date for Tamil Nadu 2026?
+A: April 23, 2026 (Wednesday). Polling hours: 7:00 AM to 6:00 PM.
+
+Q: When are the results coming?
+A: Counting of votes is on May 4, 2026. Results will be declared on the same day.
+
+Q: What was the voter turnout?
+A: 85.15% — the highest ever recorded for a Tamil Nadu assembly election.
+   The 2021 election had a turnout of 72.7%.
+
+Q: How many voters are there in Tamil Nadu?
+A: 5,67,07,380 registered voters (approximately 5.67 crore / 56.7 million).
+
+Q: How many candidates contested?
+A: 4,023 candidates across all 234 constituencies.
 
 Q: I turned 18 recently. Can I vote in TN 2026?
-A: You must have been 18 years or older on January 1, 2026 (the qualifying date) and have completed registration before the electoral roll was finalized. If you missed registration, you can register for future elections at voters.eci.gov.in.
+A: You must have been 18 years or older on January 1, 2026 (the qualifying date) 
+   and completed registration before the electoral roll was finalized.
 
 Q: My name is not on the voter list. What do I do?
-A: Contact the 1950 helpline immediately, visit electoralsearch.in to check your status, or visit your BLO. On polling day, you cannot vote if your name is not on the electoral roll.
+A: Contact the 1950 helpline immediately, visit electoralsearch.in to check your 
+   status, or visit your BLO. On polling day, you cannot vote if your name is 
+   not on the electoral roll.
 
 Q: I lost my Voter ID card. Can I still vote?
-A: Yes. You can use any of the 12 alternative photo ID documents listed above. You can also download an e-EPIC (digital voter ID) from the ECI portal.
+A: Yes. You can use any of the 12 alternative photo ID documents listed in 
+   Section 3. You can also download an e-EPIC (digital voter ID) from 
+   voters.eci.gov.in.
 
-Q: Can I vote in Tamil? Is there Tamil language support?
-A: Yes. All ballot papers, EVM labels, and official election materials are available in Tamil. The 1950 helpline provides support in Tamil. Most official election documents are bilingual (Tamil and English).
+Q: What is NOTA?
+A: NOTA = None of the Above. If you do not wish to vote for any candidate, 
+   press the NOTA button (last option on the EVM ballot). Your vote is 
+   counted but does not benefit any candidate.
 
-Q: What if I have a disability and need help to vote?
-A: You have the right to be accompanied by a companion of your choice inside the voting booth. Polling booths must be accessible. PwD voters with 40%+ disability are also eligible for postal ballots.
+Q: Can I vote in Tamil?
+A: Yes. All EVM ballot papers, official materials, and the 1950 helpline 
+   are available in Tamil. The entire process is bilingual (Tamil + English).
+
+Q: What if I have a disability?
+A: You have the right to be accompanied by a companion inside the voting booth. 
+   Accessible ramps, wheelchairs, and PwD-friendly facilities are available at 
+   all booths. You may also be eligible for postal ballot (40%+ disability).
+
+Q: How do I find my polling booth?
+A: Visit electoralsearch.in, use the Voter Helpline App, call 1950, or 
+   SMS "EPIC <your EPIC number>" to 1950.
+
+Q: How can I check if my constituency is SC/ST reserved?
+A: Refer to Section 8 of this document which lists all 234 constituencies 
+   with their category (General / SC / ST). You can also check 
+   elections.tn.gov.in for the official list.
+
+Q: What is cVIGIL?
+A: cVIGIL is an Election Commission of India mobile app that allows citizens 
+   to report Model Code of Conduct (MCC) violations by uploading photo/video 
+   evidence with GPS location. The complaint reaches the Flying Squad within 
+   100 minutes. Download from Google Play or App Store.
+
+Q: When does the Model Code of Conduct end?
+A: The MCC ends when the results are announced — May 4, 2026.
+
+Q: How do I apply for a postal ballot?
+A: Submit Form 12D to the Election Commission at least 5 days before polling day. 
+   Eligible categories: Armed Forces, PwD (40%+), senior citizens (85+), 
+   essential services, COVID patients.
+
+Q: Who cannot vote?
+A: Non-citizens, persons under 18 years, persons declared of unsound mind by 
+   a court, and persons disqualified under election law.
+
+Q: How many parties are contesting?
+A: 124 registered parties, with 4,023 total candidates across all constituencies.
+   The two main alliances are the DMK-led SPA and the AIADMK-led Alliance.
+   Tamilaga Vettri Kazhagam (TVK, led by actor Vijay) and Naam Tamilar Katchi 
+   (NTK, led by Seeman) are contesting independently in all 234 constituencies.
+
+================================================================================
+END OF DOCUMENT
+================================================================================
