@@ -34,6 +34,9 @@ Every answer cites its source and flags low-confidence responses so users always
 - **Document ingestion API** — Drop new PDFs into `/data/` and rebuild the vector store at runtime
 - **Election timeline** — Live sidebar showing all 5 key milestones with done/current/future states
 - **Quick questions** — Pre-built chips for the most common voter queries (in both languages)
+- **Constituency Explorer** — Search and view details for top Tamil Nadu constituencies, with one-click questions to the AI assistant
+- **Voter Readiness Checklist** — Interactive, bilingual 8-step checklist with a progress bar to ensure voters are election-ready
+- **EVM Demo** — Realistic Electronic Voting Machine simulator with working Ballot Unit and VVPAT animation
 
 ---
 
@@ -91,7 +94,10 @@ election-assistant/
         ├── main.jsx
         ├── components/
         │   ├── Sidebar.jsx         # Language toggle, quick Qs, timeline
-        │   └── MessageBubble.jsx   # Chat bubbles + source chips
+        │   ├── MessageBubble.jsx   # Chat bubbles + source chips
+        │   ├── ConstituencyExplorer.jsx # Constituency search and data cards
+        │   ├── VoterChecklist.jsx  # Interactive readiness checklist
+        │   └── EVMDemo.jsx         # Interactive EVM & VVPAT simulator
         └── utils/
             ├── api.js              # askQuestion, checkHealth, clearSession
             └── i18n.js             # EN + TA strings + timeline data
